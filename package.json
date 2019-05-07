@@ -1,0 +1,15 @@
+{
+  "name": "mysqlpoc",
+  "version": "4.0.0",
+  "description": "connecting with mysql db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prateek G",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.6.5",
+    "serverless-offline": "^4.9.4"
+  }
+}
